@@ -1,0 +1,220 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}body{
+    background: rgb(226, 226, 226);
+    font-family: Arial, sans-serif;
+}
+
+.body{
+    background:  rgb(221, 203, 220);;
+}
+
+header{
+    background: rgb(233, 88, 177);
+    padding: 20px;
+    text-align: center;
+    
+}
+
+
+
+#principal2 {
+    background: rgb(221, 203, 220);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+
+}
+
+#caixa2 {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 5rem;
+    width: calc(25%); 
+    
+    
+    
+}
+
+.caixa-2{
+    border: 1px solid none;
+    border-radius: 10px;
+    width: 270px;
+    background: white;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.referencia-portifolio{
+    padding: 10px 10px;
+    margin: 10px 10;
+    background: rgb(221, 203, 220);;
+}
+
+.p-portifolio1{
+    font-size: 20px;
+    text-align: center;
+
+}
+
+a{
+    width: 940px;
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+   
+}
+
+a:hover{
+    color:  rgb(167, 69, 122); background: white;
+}
+
+a:active{
+    color:rgba(243, 220, 157, 0.651);
+}
+
+.makes{
+    width: 1230px;
+    background: white;
+    margin: 0 auto;
+}
+
+
+.maketina{
+    text-align: center;
+    margin: 20px;
+    
+}
+
+img{
+    width: 400px;
+
+}
+
+.img{
+    width: 300px;
+   height: 320px;
+}
+
+
+.h2-tituloserviço{
+    padding-left: 0.5em;
+}
+
+.maquiagem{
+    text-align: center;
+    color: rgb(34, 5, 139);
+    text-transform: uppercase;
+    font-size: 22px;
+}
+
+.maquiagem2{
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    font-size: 22px;   
+}
+
+
+#caixa{
+    background: white;
+    width: 600px;
+    height: 300px;
+    padding: 15px;
+    margin: auto
+
+}
+
+.makeocasiao{
+    width: 250px;
+    height: 250px;
+
+}
+
+.quem{
+     color: rgb(233, 88, 177);
+     text-align: center;
+     font-size: 30px;
+     padding: 0 0 20px 0;
+     
+}
+
+.amanda{
+    color: black;
+    text-align:justify;
+    font-size: medium;
+    margin: 20px;
+    padding: 20px;
+    text-transform:none;
+
+}
+
+.maquiadora{
+    border-radius: 10px;
+    width: 100px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+
+
+}
+
+
+.titulosobre{
+    display: block;
+    margin: 10px 0 0 10px;
+    font-weight: bold;
+}
+
+.imaginou{
+    margin: 0 0 0 10px;
+}
+
+nav li{
+    margin: 0 0 0 15px;
+    display: inline;
+}
+
+.serviços li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    float: left;
+}
+
+footer{
+    clear: both;
+    background: rgb(233, 88, 177);
+    padding: 20px;
+    margin-top: 20px;
+    
+}
+
+.rodape{
+    text-align: center;
+    font-size: 1.0em;
+}
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
